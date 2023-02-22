@@ -1,5 +1,5 @@
 # Chimera
-Archive of a bot from the distant past. **It's highly unlikely anything still works.**
+Archive of a bot from the distant past (circva 2016). **It's highly unlikely anything still works.**
 
 The purpose of the archive is to cause eye cancer for real JavaScript programmers, and perhaps as a reference for novel functions/methods of handling game data.
 
